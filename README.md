@@ -13,6 +13,7 @@ Data Parsing and Extraction: Utilizes BeautifulSoup for parsing HTML content and
 Data Merging: Combines data from different sections (e.g., match scores and shooting statistics) into a unified dataset.
 Support for Multiple Seasons: Iterates through different seasons to collect historical data, providing a comprehensive dataset for longitudinal analysis.
 Rate Limiting: Includes delays between requests to prevent overwhelming the target server, ensuring responsible web scraping practices.
+
 Requirements:
 - Python 3.x
 - Required Libraries:
